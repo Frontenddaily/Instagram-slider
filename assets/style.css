@@ -22,6 +22,14 @@ body {
   color: #333;
 }
 
+a {
+  color: #08c;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
 /**/
 
 .feed {
